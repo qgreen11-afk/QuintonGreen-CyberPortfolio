@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Quinton Green
+# 👋 Hello, I'm Quinton Green
 🎓 Cybersecurity Graduate Student | 🛡️ DoD Pathfinder Intern | 💻 Offensive & Defensive Security Enthusiast  
 
 ---
