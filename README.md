@@ -1,14 +1,14 @@
-# Quinton Green | Cybersecurity & Risk Analyst
+# Quinton Green | Cybersecurity & Information Assurance
 🎓 M.S. Cybersecurity & Information Assurance (WGU) | 🛡️ DoD Pathfinder Intern | 🔍 Offensive & Defensive Security
 
 ---
 
 ## 🧠 About Me
-I'm a cybersecurity graduate student with hands-on experience in vulnerability assessment, risk mitigation, and compliance analysis through the U.S. Department of Defense and academic research projects. My work combines offensive red teaming techniques with risk-based security engineering and control frameworks like NIST CSF, ISO/IEC 27001, and CIS Controls.
+I'm a cybersecurity graduate student with hands-on experience in vulnerability assessment, risk mitigation, and compliance analysis through the U.S. Department of Defense and academic research projects. My work combines offensive red teaming techniques, defensive blue teaming techniques and assessments, with risk-based security engineering and control frameworks like NIST CSF, ISO/IEC 27001, and CIS Controls.
 
 📍 Ridgeville, SC  
 📧 qgree11@wgu.edu  
-🔗 [LinkedIn](https://linkedin.com/in/qgreen) | [TryHackMe](https://tryhackme.com/p/qgree11)
+🔗 [LinkedIn](https://www.linkedin.com/in/quinton-green-084553215/) | [TryHackMe](https://tryhackme.com/p/qgree11)
 
 ---
 
@@ -52,10 +52,10 @@ I'm a cybersecurity graduate student with hands-on experience in vulnerability a
 **Frameworks:** NIST CSF, ISO/IEC 27001, CIS Controls, MITRE ATT&CK  
 **Programming:** Python, Bash, PowerShell  
 **Systems:** Linux, Windows, Azure Cloud, VMware  
-**Certifications:** CompTIA CySA+, Pentest+, Security+, SSCP, ITIL 4 Foundations
+**Certifications:** CompTIA CySA+, Pentest+, Security+, SSCP, ITIL 4 Foundations, Network +, A+
 
 ---
 
 ## 📜 Goals
-I’m currently pursuing a Master’s degree in Cybersecurity & Information Assurance at WGU and preparing for advanced certifications in cloud and risk management.  
+I’m currently pursuing a Master’s degree in Cybersecurity & Information Assurance at WGU and preparing for advanced certifications in cybersecurity.  
 This portfolio demonstrates my ability to bridge academic theory with practical application in enterprise cybersecurity and compliance.
