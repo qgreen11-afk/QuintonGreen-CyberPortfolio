@@ -59,7 +59,7 @@ CompTIA CySA+ • CompTIA Pentest+ • CompTIA Security+ • SSCP (Associate) �
 - Strengthen expertise in **cloud and enterprise security engineering**  
 - Advance red-team capabilities through ethical hacking and exploit development  
 - Contribute to **open-source cybersecurity projects** and mentorship communities  
-- Pursue advanced certifications such as **Azure Security Engineer** and **CompTIA CASP+**
+- Pursue advanced certifications such as **Azure Security Engineer**, **CISM**, **CISSP** and **CompTIA Security X**
 
 ---
 
