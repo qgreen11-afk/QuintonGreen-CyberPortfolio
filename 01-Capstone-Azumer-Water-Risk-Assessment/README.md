@@ -15,4 +15,4 @@ Assess and improve the security posture of a nonprofit partner organization foll
 - Strengthened incident detection and response workflows  
 
 ## Tools Used
-Nessus | OpenVAS | Wireshark | Splunk | CIS Controls | NIST CSF | ISO/IEC 27001
+Nessus | OpenVAS | Wireshark | CIS Controls | NIST CSF | ISO/IEC 27001
