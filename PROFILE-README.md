@@ -100,9 +100,9 @@ CompTIA CySA+ • CompTIA Pentest+ • CompTIA Security+ • SSCP (Associate) �
 
 ## 📈 Current Goals
 - Strengthen expertise in **cloud and enterprise security engineering**  
-- Advance red-team capabilities through ethical hacking and exploit development  
-- Contribute to **open-source cybersecurity projects** and mentorship communities  
-- Pursue advanced certifications such as **Azure Security Engineer** and **CompTIA CASP+**
+- Advance red-team capabilities through ethical hacking and exploit development
+- Apply and development skills in real world enviroments through internships  
+- Pursue advanced certifications such as **Azure Security Engineer**, **CISM**, **CISSP** and **CompTIA Security X**
 
 ---
 
