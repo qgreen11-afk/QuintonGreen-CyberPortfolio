@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Quinton Green
-🎓 Cybersecurity Graduate Student | 🛡️ DoD Pathfinder Cyber Intern | 💻 Offensive & Defensive Security Enthusiast  
+# 👋 Hello, I'm Quinton Green
+🎓 Cybersecurity Graduate Student | 🛡️ DoD Pathfinder Cyber Intern | 💻 Offensive & Defensive Security Enthusiast 
+🎓 Currently enrolled in M.S in Cybersecurity & Information Assurance at Western Governors University
 
 ---
 
