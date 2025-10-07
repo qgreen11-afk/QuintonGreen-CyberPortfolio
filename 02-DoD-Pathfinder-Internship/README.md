@@ -10,7 +10,6 @@ Completed a simulated Grey-Box Penetration Test
 2. Participated in a team in a Grey-Box penetration test against a simulated enterprise environment (Windows, Linux, Web) using the MITRE ATT&CK Framework to evaluate compliance and security posture.
 3. Conducted Network Scanning (Nmap) and SMB Enumeration (enum4linux) to identify active services and discover high-priority findings, including Outdated SMBv1 and Anonymous Share Access.
 4. Performed advanced exploitation techniques, including Kerberoasting to find valid usernames, password cracking (Hashcat), and Privilege Escalation using PrivescCheck.ps1 to gain Administrator access.
-5. 
 
 ## Results
 - Delivered prioritized risk report simulating real-world penetration testing
