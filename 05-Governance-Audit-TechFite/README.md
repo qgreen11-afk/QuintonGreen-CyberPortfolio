@@ -4,7 +4,7 @@
 Proprietary Data Theft Case
 
 ## Methodology
-- Audited TechFite’s internal controls and identified SOX violations and insider threats.
+- Audited TechFite’s internal controls and identified SOX violations and insider threats for my Legal Issues in Information Security course.
   
 ## Results
 -	Identified SOX violations and insider threats.
@@ -14,4 +14,4 @@ Proprietary Data Theft Case
 - Developed governance framework to restore compliance and mitigate reputational risk.
 
 ## Tools Used
-
+Case study
