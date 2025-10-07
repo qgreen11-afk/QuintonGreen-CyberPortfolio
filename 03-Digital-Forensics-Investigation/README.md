@@ -1,7 +1,7 @@
 # 03 Digital Forensics Investigation
 
 ## Objective
--Proprietary Data Theft Case
+Proprietary Data Theft Case
 
 ## Methodology
 - Used FTK and Autopsy to analyze disk images and deleted files for signs of data exfiltration  
