@@ -10,4 +10,4 @@ Completed 6-week paid internship focused on offensive security penetration testi
 - Delivered prioritized risk report simulating real-world penetration testing
 
 ## Tools Used
-NMAP | Burp Suite | Nessus | Metasploit | Kali Linux | Wireshark | Recon-ng\ John the Ripper
+NMAP | Burp Suite | Nessus | Metasploit | Kali Linux | Wireshark | Recon-ng | John the Ripper
