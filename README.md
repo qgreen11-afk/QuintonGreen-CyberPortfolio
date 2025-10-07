@@ -22,6 +22,8 @@ I'm a dedicated cybersecurity professional with hands-on experience across multi
 | Digital Forensics Investigation | Forensic analysis and evidence reconstruction | FTK, Autopsy, Chain of Custody |
 | Secure Network Design | Secure hybrid network, implement Cloud Solution, Zero Trust architecture | Cisco, Azure, Fortinet, PCI-DSS |
 | Governance & Policy Audit | Control audit and compliance enhancement | GRC, SOX, Awareness Training |
+| Network Mapping & Threat Analysis | Executed network mapping and threat assessment to identify vulnerabilities in legacy systems and insecure services using Nmap and Wireshark | Nmap, Wireshark, Packet Analysis, OS Fingerprinting | 
+| WLAN & Mobile Security | Developed WLAN and BYOD security strategy for a fast-growing social media firm, addressing rogue APs, Evil Twin, and MDM deficiencies | WLAN Security, BYOD, MDM, GDPR, SOX Compliance |
 
 📂 **Full Portfolio:** [QuintonGreen-CyberPortfolio Repository](https://github.com/qgreen11/QuintonGreen-CyberPortfolio)
 
@@ -65,10 +67,16 @@ I'm a dedicated cybersecurity professional with hands-on experience across multi
 
 ---
 
-### 6️⃣ TryHackMe & Academic Labs
-- Completed 50+ labs in penetration testing, incident response, and risk management.  
-- Tools: Splunk, Wireshark, OpenVAS, Qualys, Burp Suite, Linux, Python.  
-🔗 [TryHackMe Profile](https://tryhackme.com/p/qgree11)
+### 6️⃣  Network Mapping & Threat Analysis 
+- Recommended secure protocol migration (FTPS/HTTPS) and OS upgrades.  
+- Provided remediation solutions focused on vulnerability management.  
+📄 [Project Folder](./06-Network-Mapping-Threat-Analysis)
+
+---
+### 7️⃣  WLAN & Mobile Security 
+- Proposed GDPR/SOX-compliant security controls and network segregation.  
+- Recommended the implementation of MDM and mandating disk/device encryption for all mobile devices. 
+📄 [Project Folder](./07-WLAN-Mobile-Security)
 
 ---
 
