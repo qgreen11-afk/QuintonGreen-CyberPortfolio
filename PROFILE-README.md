@@ -1,15 +1,11 @@
 # 👋 Hi, I'm Quinton Green
-🎓 Cybersecurity Graduate Student | 🛡️ DoD Pathfinder Intern | 💻 Offensive & Defensive Security Enthusiast  
+🎓 Cybersecurity Graduate Student | 🛡️ DoD Pathfinder Cyber Intern | 💻 Offensive & Defensive Security Enthusiast  
 
 ---
 
 ## 💡 About Me
-I'm a dedicated cybersecurity professional with hands-on experience across multiple domains — from penetration testing and vulnerability assessment to cloud defense, forensics, and governance.  
-As a graduate student at **Western Governors University**, I combine academic excellence with real-world practice through DoD experience and advanced cybersecurity labs.  
+I'm a dedicated cybersecurity professional with hands-on experience across multiple domains — from penetration testing and vulnerability assessment to cloud defense, forensics, and governance.  As a graduate student at **Western Governors University**, I combine academic excellence with real-world practice through DoD experience and advanced cybersecurity labs.  My goal is to continuously expand my expertise across all facets of cybersecurity — red teaming, blue teaming, cloud, incident response, and governance — to help organizations build resilient and secure infrastructures.
 
-My goal is to continuously expand my expertise across all facets of cybersecurity — red teaming, blue teaming, cloud, incident response, and governance — to help organizations build resilient and secure infrastructures.
-
-📍 Ridgeville, SC  
 📧 qgree11@wgu.edu  
 🔗 [LinkedIn](https://www.linkedin.com/in/quinton-green-084553215/) | [TryHackMe](https://tryhackme.com/p/qgree11)
 
