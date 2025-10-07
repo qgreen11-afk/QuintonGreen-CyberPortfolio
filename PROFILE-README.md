@@ -20,7 +20,7 @@ I'm a dedicated cybersecurity professional with hands-on experience across multi
 | [Digital Forensics Investigation](https://github.com/qgreen11/QuintonGreen-CyberPortfolio/tree/main/03-Digital-Forensics-Investigation) | Forensic analysis and evidence reconstruction | FTK, Autopsy, Chain of Custody |
 | [Secure Network Design](https://github.com/qgreen11/QuintonGreen-CyberPortfolio/tree/main/04-Secure-Network-Design) | Secure hybrid network and Zero Trust architecture | Cisco, Azure, Fortinet, PCI-DSS |
 | [Governance & Policy Audit](https://github.com/qgreen11/QuintonGreen-CyberPortfolio/tree/main/05-Governance-Audit-TechFite) | Control audit and compliance enhancement | GRC, SOX, Awareness Training |
-| [TryHackMe Labs](https://github.com/qgreen11/QuintonGreen-CyberPortfolio/tree/main/06-TryHackMe-Lab-Portfolio) | Hands-on ethical hacking, SIEM, and IR labs | Splunk, Wireshark, Linux, Python |
+
 
 📂 **Full Portfolio:** [QuintonGreen-CyberPortfolio Repository](https://github.com/qgreen11/QuintonGreen-CyberPortfolio)
 
