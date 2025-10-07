@@ -11,4 +11,4 @@ Proprietary Data Theft Case
 - Discovered 11 PDFs and 8 schematics related to drilling strategy and crypto laundering scheme hidden through stegonography of any employee exfiltrating company intellectual property
 
 ## Tools Used
-Autopsy | FTK
+Autopsy | FTK | Order of Volatility
