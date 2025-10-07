@@ -94,7 +94,7 @@ CompTIA CySA+ • CompTIA Pentest+ • CompTIA Security+ • SSCP (Associate) �
 
 ## 🏆 TryHackMe Progress
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2920105" style="border:none; width:400px; height:200px;"></iframe>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/qgree11.png)](https://tryhackme.com/p/qgree11)
 
 > *Current Rank:* Practitioner | *Labs Completed:* 50+ | *Focus Areas:* Web Exploitation, Privilege Escalation, and SOC Fundamentals  
 
