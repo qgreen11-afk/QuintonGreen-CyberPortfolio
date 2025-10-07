@@ -2,6 +2,7 @@
 
 ## Objective
 Completed 6-week paid internship focused on offensive security penetration testing, red team operations, and DevSecOps.
+
 Completed a simulated Grey-Box Penetration Test
 
 ## Methodology
