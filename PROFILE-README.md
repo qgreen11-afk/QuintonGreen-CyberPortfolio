@@ -15,14 +15,12 @@ I'm a dedicated cybersecurity professional with hands-on experience across multi
 
 | Project | Focus Area | Tools & Frameworks |
 |----------|-------------|--------------------|
-| [Azumer Water Risk Assessment](https://github.com/qgreen11/QuintonGreen-CyberPortfolio/tree/main/01-Capstone-Azumer-Water-Risk-Assessment) | Security posture review and risk mitigation planning | NIST CSF, ISO/IEC 27001, Nessus, Splunk |
-| [DoD Pathfinder Internship](https://github.com/qgreen11/QuintonGreen-CyberPortfolio/tree/main/02-DoD-Pathfinder-Internship) | Red Team & Vulnerability Analysis | Nmap, Burp Suite, Metasploit, Wireshark |
-| [Digital Forensics Investigation](https://github.com/qgreen11/QuintonGreen-CyberPortfolio/tree/main/03-Digital-Forensics-Investigation) | Forensic analysis and evidence reconstruction | FTK, Autopsy, Chain of Custody |
-| [Secure Network Design](https://github.com/qgreen11/QuintonGreen-CyberPortfolio/tree/main/04-Secure-Network-Design) | Secure hybrid network and Zero Trust architecture | Cisco, Azure, Fortinet, PCI-DSS |
-| [Governance & Policy Audit](https://github.com/qgreen11/QuintonGreen-CyberPortfolio/tree/main/05-Governance-Audit-TechFite) | Control audit and compliance enhancement | GRC, SOX, Awareness Training |
+| Azumer Water Risk Assessment | Security posture review and risk mitigation planning | NIST CSF, ISO/IEC 27001, Nessus, Splunk |
+| DoD Pathfinder Internship | Red Team & Vulnerability Analysis | Nmap, Burp Suite, Metasploit, Wireshark |
+| Digital Forensics Investigation | Forensic analysis and evidence reconstruction | FTK, Autopsy, Chain of Custody |
+| Secure Network Design | Secure hybrid network, implement Cloud Solution, Zero Trust architecture | Cisco, Azure, Fortinet, PCI-DSS |
+| Governance & Policy Audit | Control audit and compliance enhancement | GRC, SOX, Awareness Training |
 
-
-📂 **Full Portfolio:** [QuintonGreen-CyberPortfolio Repository](https://github.com/qgreen11/QuintonGreen-CyberPortfolio)
 
 ---
 
@@ -79,7 +77,7 @@ I'm a dedicated cybersecurity professional with hands-on experience across multi
 Nmap • Nessus • Burp Suite • Metasploit • Wireshark • Splunk • OpenVAS • Qualys • SIEM • SOAR • EDR  
 
 **Frameworks & Standards:**  
-NIST CSF • MITRE ATT&CK • ISO/IEC 27001 • CIS Controls • Zero Trust Architecture  
+NIST CSF • MITRE ATT&CK • ISO/IEC 27001 • CIS Controls • Zero Trust Architecture 
 
 **Programming & Scripting:**  
 Python • Bash • PowerShell • HTML/CSS  
