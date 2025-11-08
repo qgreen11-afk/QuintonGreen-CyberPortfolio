@@ -25,7 +25,6 @@ I'm a dedicated cybersecurity professional with hands-on experience across multi
 | Network Mapping & Threat Analysis | Executed network mapping and threat assessment to identify vulnerabilities in legacy systems and insecure services using Nmap and Wireshark | Nmap, Wireshark, Packet Analysis, OS Fingerprinting | 
 | WLAN & Mobile Security | Developed WLAN and BYOD security strategy for a fast-growing social media firm, addressing rogue APs, Evil Twin, and MDM deficiencies | WLAN Security, BYOD, MDM, GDPR, SOX Compliance |
 
-📂 **Full Portfolio:** [QuintonGreen-CyberPortfolio Repository](https://github.com/qgreen11/QuintonGreen-CyberPortfolio)
 
 ---
 
